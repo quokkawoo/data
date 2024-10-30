@@ -1,0 +1,18 @@
+{
+  "files": [
+    {
+      "name": "README.md",
+      "path": "_posts/review/githubreact/README.md",
+      "customTag": "blog-post",
+      "metadata": {
+        "title": "오늘은 재밌다",
+        "subtitle": "화이팅",
+        "category": "review",
+        "tags": [
+          "react"
+        ],
+        "date": "2024-10-30"
+      }
+    }
+  ]
+}
